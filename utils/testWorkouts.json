@@ -1,0 +1,17 @@
+[
+  {
+    "equipment": "cable",
+    "name": "test",
+    "target": "abs"
+  },
+  {
+    "equipment": "cable",
+    "name": "test",
+    "target": "abs"
+  },
+  {
+    "equipment": "cable",
+    "name": "test2",
+    "target": "chest"
+  }
+]
